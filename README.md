@@ -11,6 +11,6 @@ Whitelist page for an upcoming NFT Collection. Deployed on Rinkeby Testnet
 - Vercel
 
 ## How do I join?
-Visit https://whitelist-dapp-wine.vercel.app/ to join the waitlist!
+Visit https://whitelist-dapp-wine.vercel.app/ to join the waitlist! Only 10 spots available! 😱
 
 ### Thanks for checking this out! 🤙🏽
